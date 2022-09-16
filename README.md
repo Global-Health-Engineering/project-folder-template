@@ -3,17 +3,17 @@
 
 ## Overview
 
-This is a project template folder for BSc thesis projects, and MSc
-semester and thesis projects conducted at the Global Health Engineering
-group at ETH Zurich. The folder contains a structure for generated data
-with guidance on how to store raw and derived data. Templates are
-provided for metadata and documentation. A style guide provides an
-outline and general guidance on report writing. The guide is provided as
-a MS Word .docx file, but can also be edited with Google Docs, as Google
-Drive is used for file management. The outline of the style guide is
-also provided as a Quarto file (.qmd), which can be used for report
-writing. Depending on the set of tools for data analysis and report
-writing, some files are only relevant in specific cases.
+This is a project template folder for MSc thesis projects conducted at
+the Global Health Engineering group at ETH Zurich. The folder contains a
+structure for generated data with guidance on how to store raw and
+derived data. Templates are provided for metadata and documentation. A
+style guide provides an outline and general guidance on report writing.
+The guide is provided as a MS Word .docx file, but can also be edited
+with Google Docs, as Google Drive is used for file management. The
+outline of the style guide is also provided as a Quarto file (.qmd),
+which can be used for report writing. Depending on the set of tools for
+data analysis and report writing, some files are only relevant in
+specific cases.
 
 ## Version control
 
@@ -41,6 +41,7 @@ The repository has the following directory tree.
     ├── CITATION.cff
     ├── CONDUCT.md
     ├── LICENSE.md
+    ├── README.md
     ├── README.qmd
     ├── README.rmarkdown
     ├── data
