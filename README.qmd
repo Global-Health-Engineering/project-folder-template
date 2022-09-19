@@ -32,7 +32,7 @@ fs::dir_tree()
 ```
 
 | name         | description                                                                                                                                                                                                                                                                            |
-|-----------------------|-------------------------------------------------|
+|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | CITATION.cff | A citation file in the citation file format (.cff). Names of contributors and their ORCID iD are added to this file.                                                                                                                                                                   |
 | CONDUCT.md   | A code of conduct for this project.                                                                                                                                                                                                                                                    |
 | LICENSE.md   | A license for this project. The CC-BY 4.0 license is chosen as the default. Reasons for using a different license may apply in which case the license can be adapted in coordination with the supervisor.                                                                              |
